@@ -1,0 +1,1 @@
+/Applications/Unity/Unity.app/Contents/MacOS/Unity -projectPath "/Users/chrislombaard/Documents/unity/pixel-game"
