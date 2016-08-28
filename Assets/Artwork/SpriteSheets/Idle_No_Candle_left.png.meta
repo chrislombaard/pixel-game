@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: bdfbeab63b15f474dbce93005cea6b09
+timeCreated: 1453734078
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle_No_Candle_left_0
+    21300002: Idle_No_Candle_left_1
+    21300004: Idle_No_Candle_left_2
+    21300006: Idle_No_Candle_left_3
+    21300008: Idle_No_Candle_left_4
+    21300010: Idle_No_Candle_left_5
+    21300012: Idle_No_Candle_left_6
+    21300014: Idle_No_Candle_left_7
+    21300016: Idle_No_Candle_left_8
+    21300018: Idle_No_Candle_left_9
+    21300020: Idle_No_Candle_left_10
+    21300022: Idle_No_Candle_left_11
+    21300024: Idle_No_Candle_left_12
+    21300026: Idle_No_Candle_left_13
+    21300028: Idle_No_Candle_left_14
+    21300030: Idle_No_Candle_left_15
+    21300032: Idle_No_Candle_left_16
+    21300034: Idle_No_Candle_left_17
+    21300036: Idle_No_Candle_left_18
+    21300038: Idle_No_Candle_left_19
+    21300040: Idle_No_Candle_left_20
+    21300042: Idle_No_Candle_left_21
+    21300044: Idle_No_Candle_left_22
+    21300046: Idle_No_Candle_left_23
+    21300048: Idle_No_Candle_left_24
+    21300050: Idle_No_Candle_left_25
+    21300052: Idle_No_Candle_left_26
+    21300054: Idle_No_Candle_left_27
+    21300056: Idle_No_Candle_left_28
+    21300058: Idle_No_Candle_left_29
+    21300060: Idle_No_Candle_left_30
+    21300062: Idle_No_Candle_left_31
+    21300064: Idle_No_Candle_left_32
+    21300066: Idle_No_Candle_left_33
+    21300068: Idle_No_Candle_left_34
+    21300070: Idle_No_Candle_left_35
+    21300072: Idle_No_Candle_left_36
+    21300074: Idle_No_Candle_left_37
+    21300076: Idle_No_Candle_left_38
+    21300078: Idle_No_Candle_left_39
+    21300080: Idle_No_Candle_left_40
+    21300082: Idle_No_Candle_left_41
+    21300084: Idle_No_Candle_left_42
+    21300086: Idle_No_Candle_left_43
+    21300088: Idle_No_Candle_left_44
+    21300090: Idle_No_Candle_left_45
+    21300092: Idle_No_Candle_left_46
+    21300094: Idle_No_Candle_left_47
+    21300096: Idle_No_Candle_left_48
+    21300098: Idle_No_Candle_left_49
+    21300100: Idle_No_Candle_left_50
+    21300102: Idle_No_Candle_left_51
+    21300104: Idle_No_Candle_left_52
+    21300106: Idle_No_Candle_left_53
+    21300108: Idle_No_Candle_left_54
+    21300110: Idle_No_Candle_left_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Idle_No_Candle_left_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 973
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 973
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 973
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 973
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 921
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 921
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 921
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 921
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 869
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 869
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 869
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 869
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 817
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 817
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 817
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 817
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 765
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 765
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 765
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_19
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 765
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 713
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 713
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 713
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 713
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 661
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 661
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 661
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 661
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 609
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_29
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 609
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 609
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 609
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 557
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_33
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 557
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 557
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 557
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 505
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 505
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_38
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 505
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_39
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 505
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 453
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_41
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 453
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_42
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 453
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_43
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 453
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 401
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 401
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 401
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_47
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 401
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 349
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_49
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 349
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_50
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 349
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_51
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 349
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 297
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_53
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 297
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_54
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 297
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Idle_No_Candle_left_55
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 297
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

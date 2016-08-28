@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 4c563a3a0ea5c476db79de6bb64d5304
+timeCreated: 1453734107
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walking_Candle_right_0
+    21300002: walking_Candle_right_1
+    21300004: walking_Candle_right_2
+    21300006: walking_Candle_right_3
+    21300008: walking_Candle_right_4
+    21300010: walking_Candle_right_5
+    21300012: walking_Candle_right_6
+    21300014: walking_Candle_right_7
+    21300016: walking_Candle_right_8
+    21300018: walking_Candle_right_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: walking_Candle_right_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 206
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walking_Candle_right_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 206
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walking_Candle_right_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 206
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walking_Candle_right_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 206
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walking_Candle_right_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 154
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walking_Candle_right_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 154
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 24.5}
+        - {x: -16, y: 19.5}
+        - {x: -16, y: -24.5}
+        - {x: 8, y: -24.5}
+        - {x: 16, y: -20.5}
+        - {x: 16, y: 18.5}
+        - {x: 14, y: 24.5}
+    - name: walking_Candle_right_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 154
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walking_Candle_right_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 154
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walking_Candle_right_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 102
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walking_Candle_right_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 102
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

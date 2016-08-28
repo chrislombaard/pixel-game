@@ -23,7 +23,9 @@ public class PlayerMovement : MonoBehaviour {
 	void FixedUpdate () {
 		int inputX = (int)Input.GetAxisRaw ("Horizontal");
 		int inputY = (int)Input.GetAxisRaw ("Vertical");
-
+		
+		Debug.Log(inputX);
+		Debug.Log(inputY);
 		bool isWalking = Mathf.Abs (inputX) + Mathf.Abs (inputY) > 0;
 
 		anim.SetBool ("isWalking", isWalking);
